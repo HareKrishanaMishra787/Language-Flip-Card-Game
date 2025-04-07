@@ -46,6 +46,6 @@ Make sure you have Python installed along with the following libraries:
 ```bash
 pip install pandas
 
-python main.py
+
 
 
